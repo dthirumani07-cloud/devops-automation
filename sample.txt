@@ -1,7 +1,0 @@
-Hello aws
-
-    * Repository creation and deletion
-    * Branch creation and deletion
-    * Tag creation and deletion
-    * Add files and commit changes
-aws work is in progress 
