@@ -1,0 +1,4 @@
+git pull: Git pull is used for downloading the updated changes from remote github repository branch to git local repository branch.
+
+  command: git pull origin branch_name
+           git pull -f origin --tags
